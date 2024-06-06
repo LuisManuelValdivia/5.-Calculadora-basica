@@ -1,0 +1,82 @@
+body {
+    background-color: #5d5d63f8;
+    /*background-image: url(fondo7.jpg);*/
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-attachment: fixed;
+}
+
+h1{ 
+    font-size: 50px;
+    color: white;
+}
+
+h2{
+    font-size: 30px;
+    color: white;
+}
+    
+h3{
+    font-size: 20px;
+    color: white;
+}
+
+h4{
+    font-size: 20px;
+    color: black;
+}
+
+.principal{
+    background-color: #072c2c3b; 
+    width: 1250px; 
+    height: 280px; 
+    border-radius: 35px;
+    padding-left: 25px;
+}
+
+.image{
+    border-style:groove; 
+    border-radius: 20px;
+    width: 250px;
+}
+
+.div1{
+    background-color: white; 
+    width:350px; 
+    height: 180px; 
+    display: inline-block; 
+    margin-top: 50px; 
+    border-radius: 35px; 
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+table {
+    background-color: rgba(119, 114, 118, 0.76); 
+    text-align: center; 
+    height: 520px;
+    border-collapse: separate;
+    border: #fffcfc 4px solid;
+}
+
+.prin{
+    background-color: rgb(80, 71, 71); 
+    color: white; 
+    font-size: 20px;
+    height: 50px;
+}
+
+td {
+    text-align: center;
+    border-bottom: 2px solid #ece9e9;
+    border-color: white;
+    color: #0a0909;
+    font-size: 18px;
+}
+
+th {
+    background-color: #000;
+    color: #fff;
+}
